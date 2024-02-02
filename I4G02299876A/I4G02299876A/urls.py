@@ -1,6 +1,6 @@
 """I4G02299876A URL Configuration
 
-The `urlpatterns` list routes URLs to views. For more information please see:
+The `urlpatterns` list routes URLs to views. For more information please see the docs:
     https://docs.djangoproject.com/en/4.0/topics/http/urls/
 Examples:
 Function views
